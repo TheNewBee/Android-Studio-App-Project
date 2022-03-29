@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APPProject</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_movies">Movies</string>
+    <string name="navigation_drawer_cart">Cart</string>
+    <string name="navigation_drawer_invoices">Invoices</string>
+    <string name="navigation_drawer_commercial">Commercial</string>
+    <string name="navigation_drawer_refill">Refill</string>
+    <string name="navigation_drawer_donate">Donate</string>
+    <string name="navigation_drawer_share">Share</string>
+    <string name="navigation_drawer_header_credit">Credits</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search product</string>
+    <string name="about_title">About</string>
+</resources>
